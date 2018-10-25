@@ -5,15 +5,15 @@
     "passes": 5,
     "pending": 0,
     "failures": 1,
-    "start": "2018-10-25T23:52:22.049Z",
-    "end": "2018-10-25T23:52:22.070Z",
-    "duration": 21
+    "start": "2018-10-25T23:52:48.164Z",
+    "end": "2018-10-25T23:52:48.189Z",
+    "duration": 25
   },
   "tests": [
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -27,7 +27,7 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -41,14 +41,14 @@
     {
       "title": "has at least one commit",
       "fullTitle": "the local repository has at least one commit",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "has been pushed up to the remote repository",
       "fullTitle": "the local repository has been pushed up to the remote repository",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {
         "message": "no record of pushing to a remote was found. Follow the instructions on GitHub to connect and push to a new remote repository: value: expected './my-repository/.git/logs/refs/remotes' to exist",
@@ -63,7 +63,7 @@
     {
       "title": "has been pushed up to the remote repository",
       "fullTitle": "the local repository has been pushed up to the remote repository",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {
         "message": "no record of pushing to a remote was found. Follow the instructions on GitHub to connect and push to a new remote repository: value: expected './my-repository/.git/logs/refs/remotes' to exist",
@@ -77,7 +77,7 @@
     {
       "title": "has a folder named my-repository",
       "fullTitle": "this lab has a folder named my-repository",
-      "duration": 2,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -91,7 +91,7 @@
     {
       "title": "has a README.md file in the my-repository folder",
       "fullTitle": "this lab has a README.md file in the my-repository folder",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -105,7 +105,7 @@
     {
       "title": "has at least one commit",
       "fullTitle": "the local repository has at least one commit",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     }
